@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407141761433",
+    "project_id": "miniproject-e8b24",
+    "storage_bucket": "miniproject-e8b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407141761433:android:7bf1bc69368d30997f1308",
+        "android_client_info": {
+          "package_name": "com.example.storyblogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407141761433-8f11m4d2kbvpr99bna56u0oovpf812t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCriCplVPTtTFnu7V-xU8o_nK-aUdNKFMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407141761433-8f11m4d2kbvpr99bna56u0oovpf812t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
